@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
 import 'package:project_shopping/constants.dart';
 import 'package:project_shopping/models/Product.dart';
 import 'package:project_shopping/screens/details/detail_screen.dart';
